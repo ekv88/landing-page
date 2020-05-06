@@ -1,9 +1,14 @@
 <html>
 <head>
+	<title>EKV</title>
 	<meta charset='UTF-8'>
 	<meta name='viewport' content='width=device-width, initial-scale=1'>
+	<meta property='og:url' content='http://ekv.pw'/>
+    <meta property='og:title' content='EKV'/>
+    <meta property='og:description' content='Personal website of EKV'/>
+    <meta property='og:image' content='http://ekv.pw/ekv.png'/>
+    <meta property='og:type' content='website'/>
 	<link href='css.css' rel='stylesheet' type='text/css'>
-	<title>EKV</title>
 </head>
 <body>
 	<div class='bg'></div>
